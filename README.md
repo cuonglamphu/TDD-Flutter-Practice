@@ -32,7 +32,7 @@ flutter doctor
 
 ```bash
 git clone https://github.com/cuonglamphu/TDD_Flutter_Practice.git
-cd task_manager
+cd TDD-Flutter-Practice
 ```
 
 ### Install Dependencies
